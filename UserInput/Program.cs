@@ -49,6 +49,5 @@ try
 }
 catch (InvalidOperationException e)
 {
-    Console.WriteLine("Application was unable to start!");
     Console.WriteLine(e.Message);
 }
