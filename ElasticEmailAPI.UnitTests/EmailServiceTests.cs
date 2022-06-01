@@ -6,7 +6,6 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System.IO;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace ElasticEmailAPI.UnitTests
 {
